@@ -1,0 +1,6 @@
+1. Open gameDemo.exe
+2. Open Blu Blu.exe
+3. You should be able to see yourself on the screen. Select an item
+   you want to use as a controller (example: coffee cup, or your hand!)
+4. Start game
+5. Move the object left-right 
